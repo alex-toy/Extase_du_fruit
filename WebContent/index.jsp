@@ -1,0 +1,1 @@
+<% response.sendRedirect("/C353_P2_V0/home"); %>
